@@ -36,6 +36,9 @@ The dataset contains the following customer attributes:
 - The Elbow Method was used to determine the optimal number of clusters.
 - The Tableau dashboard provides an interactive visualization of customer segments.
 
+## Dashboard Preview
+![Customer Segmentation Dashboard](dashboard.png)
+
 ## Tableau Dashboard
 Project Dashboard:
 https://public.tableau.com/app/profile/yash.goyal3856/viz/CustomerSegmentationDashboard_17830787777800/Dashboard1?publish=yes
